@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: right;
+}
+nav a {
+    padding: 20px;
+}
+/*change letter*/
+body.modo-oscuro {
+    background-color: black;
+    color: red;
+}
+footer {
+    text-align: center;
+}
